@@ -1,11 +1,11 @@
 <div align="center">
   <h1>TKey for macOS</h1>
   <p><strong>Bộ gõ tiếng Việt native, xử lý cục bộ với Telex và VNI.</strong></p>
-  <p><a href="https://github.com/ugotuan/tkey-releases/releases/download/v1.6.37/TKey-1.6.37.zip"><img src="https://img.shields.io/badge/T%E1%BA%A3i_TKey-1.6.37-DB3A34?style=for-the-badge&logo=apple&logoColor=white" alt="Tải TKey 1.6.37"></a></p>
+  <p><a href="https://github.com/ugotuan/tkey-releases/releases/download/v1.6.38/TKey-1.6.38.zip"><img src="https://img.shields.io/badge/T%E1%BA%A3i_TKey-1.6.38-DB3A34?style=for-the-badge&logo=apple&logoColor=white" alt="Tải TKey 1.6.38"></a></p>
   <p>
     <img src="https://img.shields.io/badge/macOS-13%2B-111827?style=flat-square&logo=apple" alt="macOS 13 trở lên">
     <img src="https://img.shields.io/badge/Universal-Apple_Silicon_%26_Intel-111827?style=flat-square" alt="Apple Silicon và Intel">
-    <img src="https://img.shields.io/badge/Phi%C3%AAn_b%E1%BA%A3n-1.6.37-DB3A34?style=flat-square" alt="Phiên bản 1.6.37">
+    <img src="https://img.shields.io/badge/Phi%C3%AAn_b%E1%BA%A3n-1.6.38-DB3A34?style=flat-square" alt="Phiên bản 1.6.38">
     <img src="https://img.shields.io/badge/C%E1%BA%ADp_nh%E1%BA%ADt_t%E1%BB%B1_%C4%91%E1%BB%99ng-Sparkle-059669?style=flat-square" alt="Cập nhật tự động">
   </p>
 </div>
@@ -14,12 +14,21 @@
 
 ## Tải và cài đặt
 
-1. Tải [TKey 1.6.37](https://github.com/ugotuan/tkey-releases/releases/download/v1.6.37/TKey-1.6.37.zip).
+1. Tải [TKey 1.6.38](https://github.com/ugotuan/tkey-releases/releases/download/v1.6.38/TKey-1.6.38.zip).
 2. Giải nén và kéo `TKey.app` vào thư mục `/Applications`.
 3. Mở TKey. Nếu macOS yêu cầu, xác nhận mở ứng dụng rồi cấp quyền bàn phím tại **Cài đặt hệ thống → Quyền riêng tư & Bảo mật → Trợ năng** và **Theo dõi đầu vào**.
 4. Chọn bố cục bàn phím phù hợp và bật TKey từ biểu tượng trên thanh menu.
 
 > Bản cài được ký bằng chứng thư cục bộ và chưa được notarize bằng Apple Developer ID. Nếu Gatekeeper chặn lần mở đầu, nhấp phải `TKey.app`, chọn **Mở**, rồi xác nhận. Chỉ tải gói từ repo phát hành này.
+
+## TKey 1.6.38 (47)
+
+- Tăng kích thước glyph E/V trên thanh menu để dễ nhìn, cân đối hơn với các biểu tượng macOS.
+- Làm nét E/V đậm hơn để icon rõ hơn.
+- Thu gọn khoảng đệm ngang quanh icon để khoảng cách với các biểu tượng khác cân đối hơn.
+- Bao gồm các tính năng và sửa lỗi từ TKey 1.6.37.
+
+[Ghi chú phát hành](TKey-1.6.38.md) · [Ghi chú 1.6.37](TKey-1.6.37.md) · [Mã nguồn](https://github.com/ugotuan/tkey)
 
 ## TKey 1.6.37 (46)
 
@@ -41,6 +50,7 @@ Bản 1.6.37 là phiên bản đầu tiên tích hợp Sparkle; người dùng b
 
 | Tệp | SHA-256 |
 |---|---|
+| `TKey-1.6.38.zip` | `14f9bfbcff6c9dd1e42cb648d30c9a36f005fda54bdfdb7090b351ec1102069f` |
 | `TKey-1.6.37.zip` | `92c80e4f3eccca04f6eec74e9ca8c5eb202bad3031c086fbecdd2215bb705b15` |
 
-Kiểm tra bằng `shasum -a 256 TKey-1.6.37.zip`.
+Kiểm tra bằng `shasum -a 256 TKey-1.6.38.zip`.

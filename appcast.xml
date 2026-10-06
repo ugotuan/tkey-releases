@@ -3,6 +3,22 @@
     <channel>
         <title>TKey</title>
         <item>
+            <title>1.6.38</title>
+            <pubDate>Tue, 06 Oct 2026 09:06:19 +0700</pubDate>
+            <sparkle:version>47</sparkle:version>
+            <sparkle:shortVersionString>1.6.38</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[# TKey 1.6.38 (47)
+
+- Tăng kích thước chữ E/V trên thanh menu từ 12 pt lên 18 pt để gần với kích thước biểu tượng trạng thái macOS.
+- Tăng độ đậm của chữ E/V để dễ nhìn hơn ở kích thước nhỏ.
+- Thu hẹp khoảng đệm ngang quanh icon để giảm khoảng cách với các biểu tượng bên cạnh.
+- Không thay đổi cách gõ, phím tắt hoặc trạng thái ngôn ngữ.
+- Universal binary cho Apple Silicon và Intel; yêu cầu macOS 13 trở lên.
+]]></description>
+            <enclosure url="https://github.com/ugotuan/tkey-releases/releases/download/v1.6.38/TKey-1.6.38.zip" length="2351297" type="application/octet-stream" sparkle:edSignature="+F9c8ThmixLh5RZDOO6Pp4Bw/iHE56l121KxqvIGosOW5SJP7Sfon+FO874upLtbe8o/4B5BG8WzQZIhHhHoDg=="/>
+        </item>
+        <item>
             <title>1.6.37</title>
             <pubDate>Tue, 06 Oct 2026 08:59:58 +0700</pubDate>
             <sparkle:version>46</sparkle:version>
