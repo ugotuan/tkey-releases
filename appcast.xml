@@ -3,6 +3,22 @@
     <channel>
         <title>TKey</title>
         <item>
+            <title>1.6.39</title>
+            <pubDate>Tue, 06 Oct 2026 14:17:15 +0700</pubDate>
+            <link>https://github.com/ugotuan/tkey-releases</link>
+            <sparkle:version>48</sparkle:version>
+            <sparkle:shortVersionString>1.6.39</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[# TKey 1.6.39 (48)
+
+- Sửa cảnh báo quyền bàn phím chưa cấp dù bộ gõ đang hoạt động.
+- Khi macOS tắt event tap, TKey bỏ các phím tổng hợp đang chờ và dừng cặp tap an toàn, không liên tục bật lại hoặc tự tạo lại tap.
+- Có thể mở cửa sổ TKey để thử khởi động lại bộ gõ sau khi tap bị dừng.
+- Universal binary cho Apple Silicon và Intel; yêu cầu macOS 13 trở lên.
+]]></description>
+            <enclosure url="https://github.com/ugotuan/tkey-releases/releases/download/v1.6.39/TKey-1.6.39.zip" length="2344630" type="application/octet-stream" sparkle:edSignature="j/nsjWOdMKjhOxy7zG1YBXVYHJofyhKTQzPrex8UixpSNcHJE2dP8Cm1kTjTgcopzwHY7Ldk1KvDaIp39SF5BA=="/>
+        </item>
+        <item>
             <title>1.6.38</title>
             <pubDate>Tue, 06 Oct 2026 09:06:19 +0700</pubDate>
             <sparkle:version>47</sparkle:version>
