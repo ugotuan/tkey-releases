@@ -1,7 +1,7 @@
 <div align="center">
   <h1>TKey for macOS</h1>
   <p><strong>Bộ gõ tiếng Việt native, xử lý cục bộ với Telex và VNI.</strong></p>
-  <p><a href="https://raw.githubusercontent.com/ugotuan/tkey-releases/main/TKey-1.6.37.zip"><img src="https://img.shields.io/badge/T%E1%BA%A3i_TKey-1.6.37-DB3A34?style=for-the-badge&logo=apple&logoColor=white" alt="Tải TKey 1.6.37"></a></p>
+  <p><a href="https://github.com/ugotuan/tkey-releases/releases/download/v1.6.37/TKey-1.6.37.zip"><img src="https://img.shields.io/badge/T%E1%BA%A3i_TKey-1.6.37-DB3A34?style=for-the-badge&logo=apple&logoColor=white" alt="Tải TKey 1.6.37"></a></p>
   <p>
     <img src="https://img.shields.io/badge/macOS-13%2B-111827?style=flat-square&logo=apple" alt="macOS 13 trở lên">
     <img src="https://img.shields.io/badge/Universal-Apple_Silicon_%26_Intel-111827?style=flat-square" alt="Apple Silicon và Intel">
@@ -14,7 +14,7 @@
 
 ## Tải và cài đặt
 
-1. Tải [TKey 1.6.37](https://raw.githubusercontent.com/ugotuan/tkey-releases/main/TKey-1.6.37.zip).
+1. Tải [TKey 1.6.37](https://github.com/ugotuan/tkey-releases/releases/download/v1.6.37/TKey-1.6.37.zip).
 2. Giải nén và kéo `TKey.app` vào thư mục `/Applications`.
 3. Mở TKey. Nếu macOS yêu cầu, xác nhận mở ứng dụng rồi cấp quyền bàn phím tại **Cài đặt hệ thống → Quyền riêng tư & Bảo mật → Trợ năng** và **Theo dõi đầu vào**.
 4. Chọn bố cục bàn phím phù hợp và bật TKey từ biểu tượng trên thanh menu.

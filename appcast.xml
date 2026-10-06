@@ -30,7 +30,7 @@
 
 SHA-256: `92c80e4f3eccca04f6eec74e9ca8c5eb202bad3031c086fbecdd2215bb705b15`
 ]]></description>
-            <enclosure url="https://raw.githubusercontent.com/ugotuan/tkey-releases/main/TKey-1.6.37.zip" length="2350609" type="application/octet-stream" sparkle:edSignature="+7gnH/AkMYNweu3M2LYegdXsSzunpukrYVvlEEZsx2zRI2NHh4XWPCs5YffNP8w+vrkMw+EGm2BMctWosX4lDQ=="/>
+            <enclosure url="https://github.com/ugotuan/tkey-releases/releases/download/v1.6.37/TKey-1.6.37.zip" length="2350609" type="application/octet-stream" sparkle:edSignature="+7gnH/AkMYNweu3M2LYegdXsSzunpukrYVvlEEZsx2zRI2NHh4XWPCs5YffNP8w+vrkMw+EGm2BMctWosX4lDQ=="/>
         </item>
     </channel>
 </rss>
